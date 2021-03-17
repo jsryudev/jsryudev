@@ -10,7 +10,6 @@
 
 
 <h3 align="center">🤩 Interest</h3>
-Node.js-339933
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp 
