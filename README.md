@@ -1,16 +1,26 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=000000&height=300&text=jsryudev&fontSize=80&fontColor=ffffff&fontAlign=80&fontAlignY=20)
 
-<!--
-**jsryudev/jsryudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Stack</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>&nbsp
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="center">🤩 Interest</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"/></a>&nbsp
+</p>
+
+
+<h3 align="center">✏️ Being study</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=LLVM&logoColor=white"/></a>&nbsp 
+</p>
