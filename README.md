@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=000000&height=300&text=jsryudev&fontSize=80&fontColor=ffffff&fontAlign=80&fontAlignY=20)
-
 <h3 align="center">💻 Stack</h3>
 
 <p align="center">
