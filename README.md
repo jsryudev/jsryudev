@@ -1,3 +1,6 @@
+<h2 align="center">🌱 Junior iOS Developer</h2>
+<br/>
+
 <h3 align="center">💻 Stack</h3>
 
 <p align="center">
@@ -20,8 +23,14 @@
 </p>
 
 
-<h3 align="center">✏️ Being study</h3>
+<h3 align="center">✍️ Being study</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=LLVM&logoColor=white"/></a>&nbsp 
+</p>
+<br/>
+
+<p align="center"> 
+I'm always hungry for learning new development skills.<br/>
+I want to be a guru.
 </p>
