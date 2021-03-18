@@ -1,7 +1,7 @@
 <h2 align="center">🌱 Junior iOS Developer</h2>
 <br/>
 
-<h3 align="center">💻 Stack</h3>
+<h3 align="center">💻&nbsp&nbspStack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
@@ -10,7 +10,7 @@
 </p>
 
 
-<h3 align="center">🤩 Interest</h3>
+<h3 align="center">🤩&nbsp&nbspInterest</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp 
@@ -23,7 +23,7 @@
 </p>
 
 
-<h3 align="center">✍️ Being study</h3>
+<h3 align="center">✍️&nbsp&nbspBeing study</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=LLVM&logoColor=white"/></a>&nbsp 
