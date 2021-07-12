@@ -26,7 +26,9 @@
 <h3 align="center">✍️&nbsp&nbspBeing study</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=LLVM&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=LLVM&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
 </p>
 <br/>
 
