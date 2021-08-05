@@ -1,7 +1,9 @@
 <h2 align="center">🌱 Junior iOS Developer</h2>
 <br/>
 
-<h3 align="center">Laziness, Impatience, Hubris</h3>
+<h3 align="center">
+  <i>Laziness, Impatience, Hubris</i>
+</h3>
 <br/>
 
 <h3 align="center">💻&nbsp&nbspStack</h3>
@@ -36,8 +38,10 @@
   <img src="https://img.shields.io/badge/Roam Research-343A40?style=flat-square&logo=Roam-Research&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp
 </p>
+<br/>
 
 <p align="center"> 
-I'm always hungry for learning new development skills.<br/>
-I want to be a guru.
+<i>I'm always hungry for learning new development skills.</i>
+<br/>
+<i>I want to be a guru.</i>
 </p>
