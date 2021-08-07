@@ -3,7 +3,6 @@
 <h3 align="center">
   <i>Laziness, Impatience, Hubris</i>
 </h3>
-<br/>
 
 <h3 align="center">💻&nbsp&nbspStack</h3>
 
