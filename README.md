@@ -1,5 +1,4 @@
 <h2 align="center">🌱 Junior iOS Developer</h2>
-<br/>
 
 <h3 align="center">
   <i>Laziness, Impatience, Hubris</i>
@@ -16,7 +15,6 @@
   <img src="https://img.shields.io/badge/Fastlane-OOF200?style=flat-square&logo=Fastlane&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=GithubActions&logoColor=white"/></a>&nbsp
 </p>
-<br/>
 
 <h3 align="center">✍️&nbsp&nbspBeing study</h3>
 
@@ -25,7 +23,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white"/></a>&nbsp 
 </p>
-<br/>
 
 <h3 align="center">🤩&nbsp&nbspInterest</h3>
 
