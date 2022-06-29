@@ -1,4 +1,4 @@
-<h2 align="center">😴 Laziness iOS Developer</h2>
+<h2 align="center">To be a Laziness developer 😴</h2>
 
 <h3 align="center">
   <i>Laziness, Impatience, Hubris</i>
